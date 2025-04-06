@@ -24,9 +24,9 @@ $auth->checkAuth();
         position:absolute;
         width: 700px;
         height: 120px;
-       background-color: blue;
+       background-color: lightblue;
        border-radius: 10px;
-       box-shadow: 5px 2px 20px;
+       box-shadow: 5px 2px 30px;
     }
    
         .menu-content {
